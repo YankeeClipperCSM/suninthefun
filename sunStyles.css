@@ -1,0 +1,33 @@
+body {
+  background-color: burlywood;
+  font-family: "Comic Sans MS", sans-serif;
+}
+
+img {
+  border-color: wheat;
+  border-style: inset;
+  border-width: thick;
+}
+
+h1 {
+  background-color: aqua;
+  border-color: aliceblue;
+  border-style: ridge;
+  text-align: center;
+}
+
+.title {
+  color: navy;
+}
+
+.amenity {
+  color: brown;
+}
+
+.nearbyAttraction {
+  color: seagreen;
+}
+
+#hiddenText {
+  color: burlywood;
+}
